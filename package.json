@@ -1,0 +1,10 @@
+{
+"scripts" :{
+  "start": "node ."
+},  
+  "name": "webservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Demented Jim <thrasher955@gmail.com>",
+  "license": "MIT"
+}
